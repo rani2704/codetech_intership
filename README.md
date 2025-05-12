@@ -6,7 +6,7 @@ This repository contains projects that I worked on during my internship in the f
 
 
 Throughout the internship, I worked on several projects and tasks, such as:
-- Predictive modeling using regression and classification
-- Image recognition with Convolutional Neural Networks
-- Natural Language Processing with transformers and LSTM
-- Model optimization and hyperparameter tuning
+- Text summarization tool.
+- Speech recognition system.
+- Neural style transfer.
+- Generative text model.
